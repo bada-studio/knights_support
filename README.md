@@ -9,3 +9,5 @@
 * If you have any question or suggestion when using the game, please post it to issues.
 * Please add labeling when posting issues.
 ## [FAQ바로가기](https://github.com/bada-studio/knight_doc/wiki/FAQ)
+
+## [IDEA 등록 바로가기](https://github.com/bada-studio/knights_support/issues)
