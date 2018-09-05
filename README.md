@@ -1,2 +1,2 @@
 # knight_doc
-## [FAQ](FAQ.md)
+## [FAQ](https://github.com/bada-studio/knight_doc/wiki/FAQ)
