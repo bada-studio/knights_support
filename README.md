@@ -11,3 +11,5 @@
 ## [FAQ바로가기](https://github.com/bada-studio/knight_doc/wiki/FAQ)
 
 ## [IDEA 등록 바로가기](https://github.com/bada-studio/knights_support/issues)
+
+## [Milestones 바로가기](https://github.com/bada-studio/knights_support/wiki/Milestones)
