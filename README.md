@@ -8,8 +8,8 @@
 * This is the Question and Guide Channel for EOS Knights users.
 * If you have any question or suggestion when using the game, please post it to issues.
 * Please add labeling when posting issues.
-## [FAQ바로가기](https://github.com/bada-studio/knight_doc/wiki/FAQ)
+## [FAQ](https://github.com/bada-studio/knight_doc/wiki/FAQ)
 
-## [IDEA 등록 바로가기](https://github.com/bada-studio/knights_support/issues)
+## [IDEA Request](https://github.com/bada-studio/knights_support/issues)
 
-## [Milestones 바로가기](https://github.com/bada-studio/knights_support/wiki/Milestones)
+## [Milestones](https://github.com/bada-studio/knights_support/wiki/Milestones)
