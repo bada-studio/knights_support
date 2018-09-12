@@ -8,7 +8,7 @@
 * This is the Question and Guide Channel for EOS Knights users.
 * If you have any question or suggestion when using the game, please post it to issues.
 * Please add labeling when posting issues.
-## [FAQ](https://github.com/bada-studio/knight_doc/wiki/FAQ)
+## [FAQ_ko](https://github.com/bada-studio/knight_doc/wiki/FAQ_ko)
 
 ## [IDEA Request](https://github.com/bada-studio/knights_support/issues)
 
