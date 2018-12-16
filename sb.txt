@@ -29,6 +29,9 @@ common.min
     |ru| Мин
     |tr| 
 
+translator
+    |en| <color="#0072BC">Russian</color>\nYZ5428, Danila, Boot
+
 remove.confirm
     |ko| 정말로 삭제하시겠습니까?
     |en| Are you sure you want to delete it?
