@@ -16,4 +16,4 @@
 ___
 ## [Idea Request](https://github.com/bada-studio/knights_support/issues)
 
-## [Milestones](https://github.com/bada-studio/knights_support/wiki/EOS-Knights-plan-2019-Kor.)
+## [Milestones](https://github.com/bada-studio/knights_support/wiki/EOS-Knights-plan-2019-Kor)
